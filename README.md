@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto de análise dos gols de Lionel Messi durante sua carreira no Barcelona, PSG, e na seleção argentina, entre 2004 e 2023. O objetivo deste projeto é explorar o desempenho de Messi ao longo dos anos, identificando padrões, tendências e insights através de visualizações no Power BI.
 
+## Versão mais atualizada do dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNDdmOTkzOWUtYzhlMS00MDQ3LWE3MzMtODU2MTk0Y2FlMzcxIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9
+
 ## Objetivo do projeto
 
 - Analisar o desempenho de Messi em diferentes clubes e na seleção.
