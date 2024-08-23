@@ -1,6 +1,6 @@
 # Análise dos gols de Lionel Messi
 
-Este repositório contém um projeto de análise dos gols de Lionel Messi durante sua carreira no Barcelona, PSG, e na seleção argentina, entre 2004 e 2023. O objetivo deste projeto é explorar o desempenho de Messi ao longo dos anos, identificando padrões, tendências e insights através de visualizações no Power BI.
+Este repositório contém um projeto de análise dos gols de Lionel Messi durante sua carreira no Barcelona, PSG, e na seleção argentina, entre 2004 e 2023. O objetivo deste projeto é explorar o desempenho de Messi ao longo dos anos, identificando padrões, tendências e insights através de visualizações no Power BI. Aproveito também para adaptar as documentações a notebooks também para poder praticar um pouco da linguagem Python.
 
 ## Versão mais atualizada do dashboard
 
@@ -12,6 +12,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNDdmOTkzOWUtYzhlMS00MDQ3LWE3MzMtODU2MTk0Y
 - Visualizar a distribuição dos gols por temporada, competição, adversário e local.
 - Explorar a evolução dos gols ao longo do tempo e como eles se comparam em diferentes contextos (clubes vs. seleção).
 - Aprender e praticar habilidades no Power BI, incluindo criação de dashboards, uso de DAX e análise de dados.
+- Também mostrar poder de síntese e adaptação de insights para a linguagem Python
 
 ## Estrutura do projeto
 
@@ -40,6 +41,7 @@ Só que nesse dataset havia apenas os gols por clubes (FC Barcelona e Paris Sain
 
 - Power BI Desktop: Ferramenta principal para análise e criação de relatórios.
 - Excel/CSV: Para armazenar e organizar os dados antes de importá-los para o Power BI.
+- Jupyter Notebook: Para a adaptação dos insights ao Python
 
 ## Contribuições
 
