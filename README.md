@@ -31,6 +31,8 @@ Os dados para este projeto foram coletados do Kaggle, através da página https:
 
 Só que nesse dataset havia apenas os gols por clubes (FC Barcelona e Paris Saint-Germain), então inseri também os gols de Lionel Messi pela seleção argentina principal até junho de 2023.
 
+Para complementar, dados foram buscados tambem no FBRef.com.
+
 ## Relatórios e Dashboards Criados
 
 - Evolução dos Gols ao Longo do Tempo: Gráfico que mostra a progressão dos gols de Messi em cada temporada.
