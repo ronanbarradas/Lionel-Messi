@@ -41,9 +41,9 @@ Para complementar, dados foram buscados tambem no FBRef.com.
 
 ## Ferramentas e Tecnologias
 
-- Power BI Desktop: Ferramenta principal para análise e criação de relatórios.
-- Excel/CSV: Para armazenar e organizar os dados antes de importá-los para o Power BI.
-- Jupyter Notebook: Para a adaptação dos insights ao Python
+- **Power BI Desktop:** Ferramenta principal para análise e criação de relatórios.
+- **Excel/CSV:** Para armazenar e organizar os dados antes de importá-los para o Power BI.
+- **Jupyter Notebook:** Para a adaptação dos insights ao Python
 
 ## Contribuições
 
