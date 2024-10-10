@@ -1,6 +1,6 @@
-# Análise dos gols de Lionel Messi
+# Análise dos números de Lionel Messi
 
-Este repositório contém um projeto de análise dos gols de Lionel Messi durante sua carreira no Barcelona, PSG, e na seleção argentina, entre 2004 e 2023. O objetivo deste projeto é explorar o desempenho de Messi ao longo dos anos, identificando padrões, tendências e insights através de visualizações no Power BI. Aproveito também para adaptar as documentações a notebooks também para poder praticar um pouco da linguagem Python.
+Este repositório contém um projeto de análise dos números de Lionel Messi durante sua carreira no Barcelona, PSG, Inter Miami e na seleção argentina, entre 2004 e 2024. O objetivo deste projeto é explorar o desempenho de Messi ao longo dos anos, identificando padrões, tendências e insights através de visualizações no Power BI. Aproveito também para adaptar as documentações a notebooks também para poder praticar um pouco da linguagem Python.
 
 ## Versão mais atualizada do dashboard
 
@@ -29,7 +29,7 @@ Os dados para este projeto foram coletados do Kaggle, através da página https:
 - Informações sobre adversários e localizações dos jogos
 - Jogador que deu a assistência, minuto que saiu o gol e resultado do jogo
 
-Só que nesse dataset havia apenas os gols por clubes (FC Barcelona e Paris Saint-Germain), então inseri também os gols de Lionel Messi pela seleção argentina principal até junho de 2023.
+Só que nesse dataset havia apenas os gols por clubes (FC Barcelona e Paris Saint-Germain), então inseri também os gols de Lionel Messi pela seleção argentina principal e pelo Inter Miami até outubro de 2024.
 
 Para complementar, dados foram buscados tambem no FBRef.com.
 
